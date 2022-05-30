@@ -1,7 +1,7 @@
 ﻿
 namespace MyGame
 {
-    partial class Form1
+    partial class MyGame
     {
         /// <summary>
         /// Обязательная переменная конструктора.
@@ -31,13 +31,13 @@ namespace MyGame
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // MyGame
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(783, 450);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "MyGame";
+            this.Text = "MyGame";
             this.ResumeLayout(false);
 
         }
